@@ -1,1 +1,5 @@
-console.log('Hello World');
+const math = (a, b) => {
+    return a + b;
+};
+
+module.exports = math;

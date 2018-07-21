@@ -6,8 +6,10 @@
   "scripts": {
     "test": "jest",
     "start": "node index"
-
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^1.4.1"
+  }
 }
