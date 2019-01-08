@@ -1,7 +1,6 @@
-const math = (a, b) => {
-    return a + b;
-};
+const math = (a, b) => a * b;
 
-console.log('just a test');
+     //console.log('just a test');
 
 module.exports = math;
+// 
